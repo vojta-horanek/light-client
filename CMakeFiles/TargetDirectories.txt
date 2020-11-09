@@ -1,3 +1,0 @@
-/home/vojta/projects/light-client/CMakeFiles/rebuild_cache.dir
-/home/vojta/projects/light-client/CMakeFiles/edit_cache.dir
-/home/vojta/projects/light-client/CMakeFiles/light_client.dir
