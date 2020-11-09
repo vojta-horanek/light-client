@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/light_client.dir/main.cpp.o  -o light_client -lsockpp 
